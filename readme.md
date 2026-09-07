@@ -17,7 +17,7 @@ This project explores Airbnb's growth trajectory, market concentration, guest sa
 ---
 ## 📊 Power BI Dashboard
 
-🔗 [Download the Power BI Dashboard (.pbix)](https://1drv.ms/u/c/2ad6052cbb2abe9d/IQCAr10zuRfFS4UDfPriqRj4AVq_l8ZT3AxPsx8kfRWgfFE?e=sngteh)
+🔗 [Download the Power BI Dashboard (.pbix)](https://1drv.ms/u/c/2ad6052cbb2abe9d/IQCAr10zuRfFS4UDfPriqRj4AaAQzs1uxqsCRParrY28lE?e=DhqwYt)
 
 ---
 ## 🖼️ Screenshots
