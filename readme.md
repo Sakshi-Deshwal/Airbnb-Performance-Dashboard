@@ -15,7 +15,11 @@ An interactive Power BI dashboard analyzing Airbnb's global performance across l
 This project explores Airbnb's growth trajectory, market concentration, guest satisfaction, and trust signals using a 3-page interactive Power BI report. It combines time-series trend analysis, geographic market share, host/city rating comparisons, and reviewer behavior patterns into a single, filterable dashboard.
 
 ---
+## 📊 Power BI Dashboard
 
+🔗 [Download the Power BI Dashboard (.pbix)](https://1drv.ms/u/c/2ad6052cbb2abe9d/IQCAr10zuRfFS4UDfPriqRj4AVq_l8ZT3AxPsx8kfRWgfFE?e=sngteh)
+
+---
 ## 🖼️ Screenshots
 
 ### Page 1 — Overview
